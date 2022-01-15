@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Guniecontrol/static/css/main.1111308d.css",
+    "main.js": "/Guniecontrol/static/js/main.ccabc569.js",
+    "index.html": "/Guniecontrol/index.html",
+    "main.1111308d.css.map": "/Guniecontrol/static/css/main.1111308d.css.map",
+    "main.ccabc569.js.map": "/Guniecontrol/static/js/main.ccabc569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1111308d.css",
+    "static/js/main.ccabc569.js"
+  ]
+}
